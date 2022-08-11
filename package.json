@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/drewerd15/slackAttendance#readme",
   "dependencies": {
+    "@slack/web-api": "^6.7.2",
+    "dotenv": "^16.0.1",
     "express": "^4.18.1"
   }
 }
